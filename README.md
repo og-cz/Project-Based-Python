@@ -1,101 +1,25 @@
-<img src="./images/banner.png" width="800">
+# Project Based Python
 
-![GitHub last commit](https://img.shields.io/github/last-commit/pytopia/project-based-python)
-![GitHub repo size](https://img.shields.io/github/repo-size/pytopia/project-based-python)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pytopia/project-based-python)
-![GitHub Repo stars](https://img.shields.io/github/stars/pytopia/project-based-python)
-![GitHub top language](https://img.shields.io/github/languages/top/pytopia/project-based-python)
-[![Website](https://img.shields.io/badge/Visit-Website-blue)](https://www.pytopia.ai)
-[![Telegram](https://img.shields.io/badge/Join-Telegram-blue)](https://t.me/pytopia_ai)
-[![Instagram](https://img.shields.io/badge/Follow-Instagram-red)](https://instagram.com/pytopia.ai)
-[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-red)](https://www.youtube.com/c/pytopia)
-[![LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-blue)](https://linkedin.com/company/pytopia)
-[![Twitter](https://img.shields.io/badge/Follow-Twitter-blue)](https://twitter.com/pytopia_ai)
+Welcome to the "Project Based Python" course! In this comprehensive program, we will take you on a journey from a novice to a proficient Python programmer by engaging in a series of 25-30 exciting projects. These projects are carefully designed to cover various levels of difficulty and encompass a wide range of applications to ensure a comprehensive
 
-Project Based Python is a collection of Python projects for beginners and intermediate learners, each with a project description, template code, difficulty level, and solutions. Whether you're a beginner or an experienced developer, there's something here for you!
+## Level I: Beginner Projects
 
-# 📚 Learn with Us!
-We also offer a [course on these projects](https://www.pytopia.ai/courses/project-based-python) where learners can interact with peers and instructors, ask questions, and participate in online coding sessions. By registering for the course, you also gain access to our dedicated Telegram group. Enroll now and start learning! Here are some useful links:
+Level I projects are designed for beginners who have a basic knowledge of Python programming. These projects are relatively small in scope, allowing you to grasp fundamental concepts and practice the core syntax. The emphasis is on building confidence and understanding the basics of Python.
 
-- [Project Based Python Course](https://www.pytopia.ai/courses/project-based-python)
-- [Pytopia Public Telegram Group](https://t.me/pytopia_ai)
-- [Pytopia Website](https://www.pytopia.ai/)
+Typically, Level I projects can be completed quickly, as they focus on simple tasks and straightforward logic. They serve as a stepping stone to the next levels, providing a solid foundation for your Python programming journey. While these projects may not require intricate designs or advanced modules, they lay the groundwork for your future learning.
 
-[<img src="./images/pytopia-course.png" width="800">](https://www.pytopia.ai/courses/project-based-python)
+## Level II: Intermediate Projects
 
-# 🚀 Project Levels & List
-The projects are designed in three levels. Each level contains 5-10 projects, and each project is designed to be more challenging than the previous one. The projects are designed to be completed in order, but you can also jump around and complete them in any order you like. Here's a list of the projects in each level:
+Level II projects are aimed at intermediate programmers who have a good grasp of Python's fundamentals. In this level, you will encounter more complex problem-solving scenarios that require deeper logical thinking and additional Python modules. These projects often emphasize practical applications and may require better design principles for maintenance and readability.
 
-<img src="./images/python-projects.png" width="400">
+As you progress through Level II projects, you will encounter challenges that push your understanding and skills further. The projects may involve handling larger datasets, implementing algorithms, working with external APIs, or integrating different Python libraries. This level fosters a deeper understanding of Python programming and encourages you to think creatively to develop practical solutions.
 
-## 🎈 Level I
-  - Rock Paper Scissors
-  - Password Generator
-  - Streamlit Dashboard
-  - Happy Numbers
-  - Number to words
-  - Monty Hall Simulation Problem
-  - Tic Tac Toe
-  - Sorting Algorithms
-  - Directory Tree Generator
-  - Contact Book
+## Level III: Advanced Projects
 
-## 🚀 Level II
-  - Sending Email
-  - Site Connectivity Checker
-  - Wordle
-  - Blogging Platform
-  - Youtube Downloader
-  - Currency Converter
-  - Resize Image
-  - Personal Homepage with Streamlit
-  - Gender and Race Prediction from Name
+Level III projects are the most challenging and comprehensive in the course. They are designed to stretch your abilities, introduce new concepts, and expand your Python programming horizons. These projects often involve heavy coding or design, and they may require you to learn new modules or dive into advanced topics.
 
-## 🏆 Level III
-  - Web Scraper
-  - News Information Extraction Scraper
-  - Chatbot
-  - Face Detection
+In Level III, you may encounter projects that delve into artificial intelligence concepts, advanced data analysis, building sophisticated GUI applications, or working on complex algorithms. These projects aim to sharpen your problem-solving skills, enhance your ability to handle intricate codebases, and expose you to advanced techniques and best practices.
 
-## 🎓 Capstone Project
-Lastly, the grand Capstone Project:
-  - AI Powered Customer Service.
+## Capstone Project: Showcasing Mastery
 
-# 🚦 Getting Started
-To start using the projects in this repository:
-
-- Clone the repo to your local machine: `git clone https://github.com/pytopia/project-based-python.git`
-- Navigate to the specific project directory and Start working on the project using the provided template code and following the project description.
-
-# 🏗️ Projects Structure
-Each project in this repository is structured as follows:
-```
-- project-name/
-  - README.md
-  - solutions/
-    - solution-1/
-    - solution-2/
-    - solution-3/
-  - additional-files (if any)
-```
--  📃 `README.md`
-Contains the project description, difficulty level, objectives, and any additional information needed to understand and complete the project.
-- 💡 `solutions`
-A directory containing one or more possible solutions for the project. Each solution is organized in a separate subdirectory with its own code, documentation, and any necessary additional files. Please note that these solutions are provided as examples, and there may be multiple ways to complete the project. Feel free to explore and create your own solutions!
-- 📁 `additional-files`
-Any additional files required for the project, such as data files, images, or configuration files.
-
-# 🤝 Contributing
-We welcome contributions from the community! If you have a project you'd like to add to this repository, please open a pull request. We'll review your project and merge it into the repository if it meets our standards.
-
-# 📞 Contact Information
-
-Feel free to reach out to us!
-
-- 🌐 Website: [pytopia.ia](https://www.pytopia.ai)
-- 💬 Telegram: [pytopia_ai](https://t.me/pytopia_ai)
-- 🎥 YouTube: [pytopia](https://www.youtube.com/c/pytopia)
-- 📸 Instagram: [pytopia.ai](https://www.instagram.com/pytopia.ai)
-- 🎓 LinkedIn: [pytopia](https://www.linkedin.com/in/pytopia)
-- 🐦 Twitter: [pytopia_ai](https://twitter.com/pytopia_ai)
-- 📧 Email: [pytopia.ai@gmail.com](mailto:pytopia.ai@gmail.com)
+The capstone project represents the pinnacle of your learning journey in the course. It serves as the crowning achievement, where you bring together all the skills, knowledge, and experience acquired throughout the program. The capstone project encapsulates the essence of what you have learned and showcases your ability to apply Python in a comprehensive and impressive manner.
