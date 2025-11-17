@@ -7,8 +7,13 @@ def linear_random_generator(x0, a, b, m, n):
 
 #### TODO: NOT YET DONE...
 def generate(length, seed=1234):
-    charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()"
-    x0 = 43
+    import src.mesenne_twister as random
+    charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    numbers = "0123456789"
+    symbol = "!@#$%^&*()"
+    
+    random = random.Random()
+    x0 = random.randint(1, 60)
     a = 151612
     b = 1231
     m = len(charset)

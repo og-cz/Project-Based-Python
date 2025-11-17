@@ -10,9 +10,9 @@ up_case = "ABCDEFGHIJKLMNOPQRSTUVXYZ"
 numbers = "0123456789"
 special_character = '"£$&()*+[]@#^-_!'
 
-# # Source - https://stackoverflow.com/a
-# # Posted by Salvador Dali
-# # Retrieved 2025-11-16, License - CC BY-SA 3.0
+# Source - https://stackoverflow.com/a
+# Posted by Salvador Dali
+# Retrieved 2025-11-16, License - CC BY-SA 3.0
 
 # def LCG(seed, n, a=1664525, c=1013904223, m=2**32):
 #     numbers = []
